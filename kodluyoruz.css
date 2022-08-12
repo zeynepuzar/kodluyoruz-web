@@ -1,0 +1,22 @@
+h1 {
+    color:rgb(200, 9, 9) ;
+    font-size:45px;
+    text-align:center;
+}
+;
+
+ul{
+    list-style-position: inside;
+    color:black;
+    font-family: 'Lato', sans-serif;
+
+}
+h2{
+    font-size:30px
+}
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
